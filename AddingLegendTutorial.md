@@ -3,6 +3,7 @@
 ### Creating a Legend based on available sublayers in ESRI App Studio Qt
 
 ##### This tutorial begins assuming the user has an ArcGIS online user account and has already downloaded ESRI AppStudio for Desktop
+##### Relies on ESRI's example for adding a legend dependant on features.
 
 #### More examples can be found on the [ESRI AppStudio Github](https://github.com/Esri/arcgis-appstudio-samples "ESRI Samples")
 
